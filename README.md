@@ -18,7 +18,7 @@ are the simulation codes for the paper "Threat Model and Construction Strategy o
   - t_tampering_attack :The test script for data manipulation attack
   - t_ghost_attack :The test script for ghost injection attack
   - t_replay_attack :The test script for data replay attack
-  _ t_dos_attack :The test script for data block attack (DoS)
+  - t_dos_attack :The test script for data block attack (DoS)
 - attack :The core module for attack patterns
   - attack :The basic class for attack patterns
   - dos_attack :DoS attack disruption on ADS-B data
